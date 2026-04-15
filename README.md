@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Huy (HuyDevGame1402) 👋
+### 🎮 Game Developer | Unity & C# Enthusiast
 
-<!--
-**HuyDevGame1402/HuyDevGame1402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Game Development student based in Hanoi, focusing on creating immersive 3D experiences and complex multiplayer systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Engine:** Unity (Advanced), Unreal Engine (Basic)
+- **Programming:** C#, C++, Node.js
+- **Networking:** Photon Fusion 2, Socket.io
+- **Backend:** PlayFab, Firebase
+- **Tools:** Blender, Git LFS, PlasticSCM
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧟 3D Third-Person RPG Zombie Shooter
+*A multiplayer RPG featuring intense combat, AI systems, and persistent progression.*
+- **Highlights:** - Advanced Weapon System (Rifles, Explosives, Turrets).
+    - Multiplayer networking using **Photon Fusion 2**.
+    - Reconnection & Cloud Saving via **PlayFab**.
+- [View Repository](link-den-repo-game-cua-ban) | [Watch Demo](link-video-youtube)
+
+---
+
+### 📊 GitHub Stats
+![Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuyDevGame1402&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuyDevGame1402&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me
+- **Portfolio:** [Link của bạn]
+- **LinkedIn:** [Link của bạn]
+- **Email:** [Email của bạn]
